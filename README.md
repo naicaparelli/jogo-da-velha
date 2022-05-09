@@ -9,4 +9,4 @@
 &nbsp;
 
 # Game prints: 
-<img src="./images/cover.png" alt="game-prints">
+<img src="./images/cover.PNG" alt="game-prints">
